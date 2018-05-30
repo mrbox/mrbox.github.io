@@ -1,0 +1,4 @@
+jupyter==1.0.0
+pelican==3.7.1
+
+
